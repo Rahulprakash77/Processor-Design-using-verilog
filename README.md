@@ -49,7 +49,27 @@ It's often carried out by teams of engineers and involves iterative design, simu
 
 ![Screenshot (7)](https://github.com/Rahulprakash77/Processor-Design-using-verilog/assets/130161648/231d3662-ca61-4efb-a6f9-ca794e004e5e)
 
-## step 3 ( 
+## step 3 ( building control part and set flag )
+
+![Screenshot (9)](https://github.com/Rahulprakash77/Processor-Design-using-verilog/assets/130161648/b6711b6f-34a6-4964-9811-5e961b86844f)
+
+
+![Screenshot (8)](https://github.com/Rahulprakash77/Processor-Design-using-verilog/assets/130161648/7087f0b5-f9d5-46d9-a03a-074789d748bb)
+
+## step 4 (designing data and program memory ) 
+
+harward architecture memory model
+![Screenshot (11)](https://github.com/Rahulprakash77/Processor-Design-using-verilog/assets/130161648/6996f94c-f26e-405c-9727-6cf2525b3e14)
+
+![Screenshot (10)](https://github.com/Rahulprakash77/Processor-Design-using-verilog/assets/130161648/620cb571-a046-46d2-b1a4-87352402b543)
+
+## step 5 ( adding all in one place to make processor ready )
+
+##### all material related to this project , i attached in my repository you can find code and all 
+##### thank you 
+
+
+
 
 
 
